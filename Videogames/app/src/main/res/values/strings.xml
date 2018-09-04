@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Tech List</string>
+    <string name="microsoft_categoria">MICROSOFT</string>
+    <string name="nintendo_categoria">NINTENDO</string>
+    <string name="sony_categoria">SONY</string>
+    <string name="silvio_categoria">SILVIO</string>
+
+    <!-- LISTAS DE GAMES Exclusivos-->
+
+    <string-array name="microsoft_games">
+        <item>Microsoft 1</item>
+        <item>Microsoft 2</item>
+        <item>Microsoft 3</item>
+        <item>Microsoft 4</item>
+        <item>Microsoft 5</item>
+        <item>Microsoft 6</item>
+        <item>Microsoft 7</item>
+        <item>Microsoft 8</item>
+        <item>Microsoft 9</item>
+        <item>Microsoft 0</item>
+
+    </string-array>
+
+    <string-array name="Microsoft_description">
+        <item> Lorem ipsum commodo. </item>
+        <item> Lorem ipsum dolor sit amet,  Phasellus commodo. </item>
+        <item> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus commodo. </item>
+        <item> Lorem insectetur adipiscing ecommodo. </item>
+        <item> Lorem ipsaaaaconsectetur adipiscing elit. Phasellus commodo. </item>
+        <item> dolor sit amet, consectetur adipiscing elit. Phasellus commodo. </item>
+        <item> Lorem ipsum d122344 xxxxxxxxxxxxolor sit amet. </item>
+        <item> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus commodo. </item>
+        <item> Lorem ddddddddddddddddd dddddddddddddddddscing elit. Phasellus commodo. </item>
+        <item> Lorem ipsum d9999999999999999999999   cing elit. Phasellus commodo. </item>
+
+    </string-array>
+
+
+    <string-array name="nintendo_games">
+        <item>Nintendo 1</item>
+        <item>Nintendo 2</item>
+        <item>Nintendo 3</item>
+        <item>Nintendo 4</item>
+        <item>Nintendo 5</item>
+        <item>Nintendo 6</item>
+        <item>Nintendo 7</item>
+        <item>Nintendo 8</item>
+        <item>Nintendo 9</item>
+        <item>Nintendo 0</item>
+    </string-array>
+
+    <string-array name="nintendo_desc">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.11111111111111. </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.22222222222222 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.33333333333333 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.44444444444444 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.55555555555555 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.66666666666666 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.77777777777777 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.88888888888888 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.99999999999999 </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.000000000000000 </item>
+
+    </string-array>
+
+    <string-array name="sony_games">
+        <item>Sony 1</item>
+        <item>Sony 2</item>
+        <item>Sony 3</item>
+        <item>Sony 4</item>
+        <item>Sony 5</item>
+        <item>Sony 6</item>
+        <item>Sony 7</item>
+        <item>Sony 8</item>
+        <item>Sony 9</item>
+        <item>Sony 0</item>
+
+    </string-array>
+
+    <string-array name="sony_desc">
+        <item>Lorem ipsum dolor sit amet, AAAAAAAAAAAAAAAAAAAAA. </item>
+        <item>Lorem ipsum dolor sit amet, BBBBBBBBBBBBBBBBBBBBB elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, CCCCCCCCCCCCCCCCCCCCC elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, DDDDDDDDDDDDDDDDDDDDD elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, EEEEEEEEEEEEEEEEEEEEE elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, FFFFFFFFFFFFFFFFFFFFF elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, GGGGGGGGGGGGGGGGGGGGG elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, HHHHHHHHHHHHHHHHHHHHH elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, IIIIIIIIIIIIIIIIIIIII elit. Nunc facilisis. </item>
+        <item>Lorem ipsum dolor sit amet, JJJJJJJJJJJJJJJJJJJJJ elit. Nunc facilisis. </item>
+
+    </string-array>
+
+    <string-array name="silvio_games">
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+        <item>Jogo 6</item>
+        <item>Jogo 7</item>
+        <item>Jogo 8</item>
+        <item>Jogo 9</item>
+        <item>Jogo 0</item>
+    </string-array>
+
+    <string-array name="silvio_desc">
+        <item>Silvio Santos Ipsum mah voc no consS777777777777777777777egue n Moiss? Voc.</item>
+        <item>Silvio Santos IXXXXXXXXXXXXXXXXXXXXpsum mah voc no consegue n Moiss? Voc.</item>
+        <item>Silvio SEEEEEEEEEEEEEEEEEEEEEEEo consegue n Moiss? Voc.</item>
+        <item>Silvio Sant777777777777777777.</item>
+        <item>Silvio Santos Ipsum mah voc no consegue n Moiss? Voc.</item>
+        <item>Sil consegue n Moiss? Voc.</item>
+        <item>Silvio Santos Ipsun Moiss? Voc.</item>
+        <item>Silvio Santos Ipsum mah voc no consegue </item>
+        <item>Silv0000000000000000000000000</item>
+        <item>uiuiuiuiuiuiuiuiuiuiuiuiuiuiui</item>
+
+
+    </string-array>
+
+</resources>
